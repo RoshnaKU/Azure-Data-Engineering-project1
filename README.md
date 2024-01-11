@@ -1,6 +1,6 @@
 # Azure Data Engineering Project
 ## Overview
-This project aims to extract data from SSMS, cleanse and transform it in Azure cloud and genereate analytical report in PowerBI
+This project aims to extract data from SSMS, cleanse and transform it in Azure cloud and generate analytical report in PowerBI
 ## Project Stages
 1.	Data Ingestion
 2.	ETL
